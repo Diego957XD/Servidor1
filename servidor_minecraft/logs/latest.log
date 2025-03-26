@@ -193,3 +193,22 @@
 [26Mar2025 18:41:55.969] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/3204, l='ServerLevel[world]', x=160.63, y=60.28, z=73.69]
 [26Mar2025 18:41:55.970] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/3205, l='ServerLevel[world]', x=163.28, y=56.73, z=73.65]
 [26Mar2025 18:42:08.886] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Anico_YT has made the advancement [Cover Me With Diamonds]
+[26Mar2025 18:43:18.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Anico_YT has made the advancement [Acquire Hardware]
+[26Mar2025 18:43:47.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Anico_YT has made the advancement [Take Aim]
+[26Mar2025 18:47:43.317] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Mason'/181, l='ServerLevel[world]', x=123.15, y=65.00, z=165.14] died, message: 'Mason fell out of the world'
+[26Mar2025 18:47:43.320] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/237, l='ServerLevel[world]', x=117.40, y=66.94, z=124.42] died, message: 'Villager fell out of the world'
+[26Mar2025 18:47:43.321] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/240, l='ServerLevel[world]', x=95.93, y=71.00, z=104.53] died, message: 'Villager fell out of the world'
+[26Mar2025 18:47:43.321] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/242, l='ServerLevel[world]', x=120.75, y=67.00, z=128.40] died, message: 'Villager fell out of the world'
+[26Mar2025 18:47:43.322] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Nitwit'/245, l='ServerLevel[world]', x=121.56, y=67.00, z=129.06] died, message: 'Nitwit fell out of the world'
+[26Mar2025 18:47:43.323] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/246, l='ServerLevel[world]', x=114.30, y=67.00, z=153.16] died, message: 'Villager fell out of the world'
+[26Mar2025 18:47:43.323] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/247, l='ServerLevel[world]', x=116.53, y=66.94, z=123.54] died, message: 'Villager fell out of the world'
+[26Mar2025 18:47:43.324] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Nitwit'/250, l='ServerLevel[world]', x=100.52, y=71.00, z=105.31] died, message: 'Nitwit fell out of the world'
+[26Mar2025 18:47:43.325] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/251, l='ServerLevel[world]', x=93.28, y=67.42, z=123.70] died, message: 'Villager fell out of the world'
+[26Mar2025 18:47:43.326] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/253, l='ServerLevel[world]', x=91.50, y=79.00, z=61.00] died, message: 'Villager fell out of the world'
+[26Mar2025 18:47:43.328] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/295, l='ServerLevel[world]', x=95.99, y=72.00, z=103.86] died, message: 'Villager fell out of the world'
+[26Mar2025 18:47:43.329] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/300, l='ServerLevel[world]', x=87.56, y=70.00, z=133.91] died, message: 'Villager fell out of the world'
+[26Mar2025 18:47:43.331] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/350, l='ServerLevel[world]', x=89.10, y=68.94, z=119.06] died, message: 'Villager fell out of the world'
+[26Mar2025 18:47:43.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Anico_YT fell out of the world
+[26Mar2025 18:47:43.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Anico_YT: Killed 485 entities]
+[26Mar2025 18:47:49.052] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Anico_YT lost connection: Disconnected
+[26Mar2025 18:47:49.052] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Anico_YT left the game
