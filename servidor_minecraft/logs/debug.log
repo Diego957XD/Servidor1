@@ -578,3 +578,54 @@
 [26Mar2025 18:31:06.206] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Anico_YT[/127.3.97.138:49503] logged in with entity id 560 at (242.5, 65.0, 62.5)
 [26Mar2025 18:31:06.224] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.ForgeConnectionNetworkFilter@44b67c69 into net.minecraft.network.NetworkManager@26255599
 [26Mar2025 18:31:06.240] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Anico_YT joined the game
+[26Mar2025 18:32:34.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[26Mar2025 18:32:34.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tps<--[HERE]
+[26Mar2025 18:32:40.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[26Mar2025 18:32:40.797] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: tps<--[HERE]
+[26Mar2025 18:33:24.479] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26Mar2025 18:33:24.488] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[26Mar2025 18:38:24.917] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26Mar2025 18:38:24.927] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[26Mar2025 18:38:36.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Anico_YT was shot by Skeleton
+[26Mar2025 18:40:05.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Anico_YT was slain by Zombie
+[26Mar2025 18:40:27.711] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Anico_YT a server operator
+[26Mar2025 18:40:35.823] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Anico_YT: Set own game mode to Creative Mode]
+[26Mar2025 18:41:48.392] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2401, l='ServerLevel[world]', x=178.60, y=63.58, z=55.26]
+[26Mar2025 18:41:49.355] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diorite'/2497, l='ServerLevel[world]', x=181.67, y=58.32, z=70.54]
+[26Mar2025 18:41:49.357] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2498, l='ServerLevel[world]', x=183.74, y=58.29, z=71.47]
+[26Mar2025 18:41:49.661] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sand'/2526, l='ServerLevel[world]', x=163.55, y=62.69, z=54.40]
+[26Mar2025 18:41:51.843] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2736, l='ServerLevel[world]', x=146.53, y=60.69, z=69.52]
+[26Mar2025 18:41:51.843] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2740, l='ServerLevel[world]', x=151.63, y=62.59, z=76.54]
+[26Mar2025 18:41:51.844] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2741, l='ServerLevel[world]', x=153.27, y=62.36, z=73.52]
+[26Mar2025 18:41:51.844] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2742, l='ServerLevel[world]', x=149.57, y=60.45, z=74.51]
+[26Mar2025 18:41:51.845] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2743, l='ServerLevel[world]', x=151.62, y=61.60, z=74.38]
+[26Mar2025 18:41:53.054] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2840, l='ServerLevel[world]', x=145.30, y=60.59, z=87.71]
+[26Mar2025 18:41:53.055] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2841, l='ServerLevel[world]', x=146.37, y=59.30, z=86.42]
+[26Mar2025 18:41:53.055] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2843, l='ServerLevel[world]', x=146.26, y=60.74, z=90.73]
+[26Mar2025 18:41:53.055] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2848, l='ServerLevel[world]', x=145.68, y=60.52, z=91.52]
+[26Mar2025 18:41:53.056] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2852, l='ServerLevel[world]', x=143.62, y=61.61, z=89.25]
+[26Mar2025 18:41:53.056] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/2853, l='ServerLevel[world]', x=146.46, y=64.51, z=93.44]
+[26Mar2025 18:41:53.941] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2919, l='ServerLevel[world]', x=158.38, y=59.44, z=83.37]
+[26Mar2025 18:41:53.942] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2923, l='ServerLevel[world]', x=163.69, y=62.29, z=83.47]
+[26Mar2025 18:41:53.942] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2924, l='ServerLevel[world]', x=159.51, y=62.32, z=79.68]
+[26Mar2025 18:41:53.943] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2926, l='ServerLevel[world]', x=159.52, y=59.58, z=84.26]
+[26Mar2025 18:41:54.746] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/3005, l='ServerLevel[world]', x=163.44, y=63.70, z=77.34]
+[26Mar2025 18:41:54.749] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/3006, l='ServerLevel[world]', x=165.53, y=62.61, z=78.31]
+[26Mar2025 18:41:54.750] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/3008, l='ServerLevel[world]', x=165.30, y=61.63, z=79.33]
+[26Mar2025 18:41:54.751] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/3009, l='ServerLevel[world]', x=162.60, y=59.31, z=78.65]
+[26Mar2025 18:41:54.751] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/3010, l='ServerLevel[world]', x=164.45, y=62.46, z=78.73]
+[26Mar2025 18:41:54.752] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/3011, l='ServerLevel[world]', x=164.45, y=58.75, z=80.34]
+[26Mar2025 18:41:54.754] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/3012, l='ServerLevel[world]', x=166.37, y=58.32, z=82.61]
+[26Mar2025 18:41:54.756] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/3013, l='ServerLevel[world]', x=164.41, y=58.68, z=79.45]
+[26Mar2025 18:41:54.757] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/3014, l='ServerLevel[world]', x=167.51, y=59.30, z=81.74]
+[26Mar2025 18:41:54.935] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/3036, l='ServerLevel[world]', x=173.55, y=62.67, z=88.25]
+[26Mar2025 18:41:54.936] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/3037, l='ServerLevel[world]', x=169.41, y=62.62, z=86.69]
+[26Mar2025 18:41:54.937] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Wheat Seeds'/3038, l='ServerLevel[world]', x=173.59, y=63.50, z=93.32]
+[26Mar2025 18:41:55.028] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Anico_YT has made the advancement [Monster Hunter]
+[26Mar2025 18:41:55.439] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/3123, l='ServerLevel[world]', x=162.75, y=56.70, z=82.26]
+[26Mar2025 18:41:55.440] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/3124, l='ServerLevel[world]', x=165.52, y=55.39, z=81.32]
+[26Mar2025 18:41:55.440] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/3127, l='ServerLevel[world]', x=168.34, y=58.43, z=75.49]
+[26Mar2025 18:41:55.969] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/3202, l='ServerLevel[world]', x=161.59, y=55.75, z=75.35]
+[26Mar2025 18:41:55.969] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/3204, l='ServerLevel[world]', x=160.63, y=60.28, z=73.69]
+[26Mar2025 18:41:55.970] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/3205, l='ServerLevel[world]', x=163.28, y=56.73, z=73.65]
+[26Mar2025 18:42:08.886] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Anico_YT has made the advancement [Cover Me With Diamonds]
