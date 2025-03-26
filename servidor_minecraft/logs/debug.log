@@ -656,3 +656,123 @@
 [26Mar2025 18:53:24.014] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [26Mar2025 18:58:24.070] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [26Mar2025 18:58:24.073] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[26Mar2025 19:03:24.024] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26Mar2025 19:03:24.027] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[26Mar2025 19:04:00.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[26Mar2025 19:04:00.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /home/codespace/.python/current/bin/python3 /workspaces/Servidor1/msx.py<--[HERE]
+[26Mar2025 19:08:23.814] [Server thread/ERROR] [net.minecraft.world.storage.WorldSavedData/]: Could not save data net.minecraftforge.common.util.WorldCapabilityData@7889eea1
+java.io.FileNotFoundException: ./world/data/capabilities.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:298) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:237) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:187) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_244264_a(CompressedStreamTools.java:42) ~[?:?]
+	at net.minecraft.world.storage.WorldSavedData.func_215158_a(WorldSavedData.java:47) ~[?:?]
+	at net.minecraft.world.storage.DimensionSavedDataManager.func_212775_b(DimensionSavedDataManager.java:128) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_73042_a(ServerWorld.java:708) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_217445_a(ServerWorld.java:693) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213211_a(MinecraftServer.java:532) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:807) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[26Mar2025 19:08:23.815] [Server thread/ERROR] [net.minecraft.world.storage.WorldSavedData/]: Could not save data net.minecraft.world.raid.RaidManager@25c70c7
+java.io.FileNotFoundException: ./world/data/raids.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:298) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:237) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:187) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_244264_a(CompressedStreamTools.java:42) ~[?:?]
+	at net.minecraft.world.storage.WorldSavedData.func_215158_a(WorldSavedData.java:47) ~[?:?]
+	at net.minecraft.world.storage.DimensionSavedDataManager.func_212775_b(DimensionSavedDataManager.java:128) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_73042_a(ServerWorld.java:708) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_217445_a(ServerWorld.java:693) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213211_a(MinecraftServer.java:532) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:807) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[26Mar2025 19:08:24.145] [Server thread/ERROR] [net.minecraft.world.storage.WorldSavedData/]: Could not save data net.minecraftforge.common.util.WorldCapabilityData@563f6f76
+java.io.FileNotFoundException: ./world/DIM-1/data/capabilities.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:298) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:237) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:187) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_244264_a(CompressedStreamTools.java:42) ~[?:?]
+	at net.minecraft.world.storage.WorldSavedData.func_215158_a(WorldSavedData.java:47) ~[?:?]
+	at net.minecraft.world.storage.DimensionSavedDataManager.func_212775_b(DimensionSavedDataManager.java:128) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_73042_a(ServerWorld.java:708) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_217445_a(ServerWorld.java:693) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213211_a(MinecraftServer.java:532) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:807) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[26Mar2025 19:08:24.146] [Server thread/ERROR] [net.minecraft.world.storage.WorldSavedData/]: Could not save data net.minecraft.world.raid.RaidManager@61746ff6
+java.io.FileNotFoundException: ./world/DIM-1/data/raids.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:298) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:237) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:187) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_244264_a(CompressedStreamTools.java:42) ~[?:?]
+	at net.minecraft.world.storage.WorldSavedData.func_215158_a(WorldSavedData.java:47) ~[?:?]
+	at net.minecraft.world.storage.DimensionSavedDataManager.func_212775_b(DimensionSavedDataManager.java:128) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_73042_a(ServerWorld.java:708) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_217445_a(ServerWorld.java:693) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213211_a(MinecraftServer.java:532) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:807) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[26Mar2025 19:08:24.148] [Server thread/ERROR] [net.minecraft.world.storage.WorldSavedData/]: Could not save data net.minecraftforge.common.util.WorldCapabilityData@4ff157
+java.io.FileNotFoundException: ./world/DIM1/data/capabilities.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:298) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:237) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:187) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_244264_a(CompressedStreamTools.java:42) ~[?:?]
+	at net.minecraft.world.storage.WorldSavedData.func_215158_a(WorldSavedData.java:47) ~[?:?]
+	at net.minecraft.world.storage.DimensionSavedDataManager.func_212775_b(DimensionSavedDataManager.java:128) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_73042_a(ServerWorld.java:708) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_217445_a(ServerWorld.java:693) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213211_a(MinecraftServer.java:532) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:807) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[26Mar2025 19:08:24.149] [Server thread/ERROR] [net.minecraft.world.storage.WorldSavedData/]: Could not save data net.minecraft.world.raid.RaidManager@543d73d9
+java.io.FileNotFoundException: ./world/DIM1/data/raids_end.dat (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:298) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:237) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:187) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_244264_a(CompressedStreamTools.java:42) ~[?:?]
+	at net.minecraft.world.storage.WorldSavedData.func_215158_a(WorldSavedData.java:47) ~[?:?]
+	at net.minecraft.world.storage.DimensionSavedDataManager.func_212775_b(DimensionSavedDataManager.java:128) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_73042_a(ServerWorld.java:708) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_217445_a(ServerWorld.java:693) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213211_a(MinecraftServer.java:532) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:807) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[26Mar2025 19:08:24.152] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26Mar2025 19:08:24.155] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[26Mar2025 19:08:24.155] [Server thread/ERROR] [net.minecraft.world.storage.SaveFormat/]: Failed to save level ./world
+java.io.IOException: No such file or directory
+	at java.io.UnixFileSystem.createFileExclusively(Native Method) ~[?:?]
+	at java.io.File.createTempFile(File.java:2129) ~[?:?]
+	at net.minecraft.world.storage.SaveFormat$LevelSave.func_237288_a_(SaveFormat.java:348) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213211_a(MinecraftServer.java:540) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:807) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[26Mar2025 19:10:10.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[26Mar2025 19:10:10.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /home/codespace/.python/current/bin/python3 /workspaces/Servidor1/msx.py<--[HERE]
+[26Mar2025 19:11:39.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[26Mar2025 19:11:39.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /home/codespace/.python/current/bin/python3 /workspaces/Servidor1/msx.py<--[HERE]
+[26Mar2025 19:11:52.714] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[26Mar2025 19:11:52.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /home/codespace/.python/current/bin/python3 /workspaces/Servidor1/msx.py<--[HERE]
+[26Mar2025 19:12:10.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[26Mar2025 19:12:10.665] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: op<--[HERE]
