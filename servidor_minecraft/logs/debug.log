@@ -13031,3 +13031,7 @@ com.google.gson.JsonSyntaxException: Missing ops, expected to find a JsonArray
 [04Apr2025 01:00:43.125] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Mundo nuevo
 [04Apr2025 01:05:43.119] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Mundo nuevo
 [04Apr2025 01:05:43.126] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Mundo nuevo
+[04Apr2025 01:10:43.107] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Mundo nuevo
+[04Apr2025 01:10:43.113] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Mundo nuevo
+[04Apr2025 01:15:43.133] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Mundo nuevo
+[04Apr2025 01:15:43.144] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Mundo nuevo
