@@ -17055,3 +17055,7 @@ java.lang.NullPointerException: null
 [07Apr2025 21:33:02.194] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Anico_YT left the game
 [07Apr2025 21:35:04.495] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [07Apr2025 21:35:04.503] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[07Apr2025 21:40:03.324] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[07Apr2025 21:40:03.331] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[07Apr2025 21:45:03.278] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[07Apr2025 21:45:03.284] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
