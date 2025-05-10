@@ -664,3 +664,7 @@
 [10May2025 23:39:06.100] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Anico_YT joined the game
 [10May2025 23:41:35.315] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Anico_YT lost connection: Disconnected
 [10May2025 23:41:35.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Anico_YT left the game
+[10May2025 23:43:13.711] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10May2025 23:43:13.716] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10May2025 23:48:13.091] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10May2025 23:48:13.099] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
