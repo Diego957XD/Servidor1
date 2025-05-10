@@ -141,3 +141,10 @@
 [10May2025 23:24:34.002] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Anico_YT joined the game
 [10May2025 23:31:34.214] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Anico_YT lost connection: Disconnected
 [10May2025 23:31:34.215] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Anico_YT left the game
+[10May2025 23:36:25.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[10May2025 23:36:25.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /home/codespace/.python/current/bin/python3 /workspaces/Servidor1/msx.py<--[HERE]
+[10May2025 23:39:06.069] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4552e1ab
+[10May2025 23:39:06.078] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Anico_YT[/127.188.33.37:54335] logged in with entity id 1244 at (-50.148342064759355, 76.0, -95.43209472318307)
+[10May2025 23:39:06.100] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Anico_YT joined the game
+[10May2025 23:41:35.315] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Anico_YT lost connection: Disconnected
+[10May2025 23:41:35.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Anico_YT left the game
