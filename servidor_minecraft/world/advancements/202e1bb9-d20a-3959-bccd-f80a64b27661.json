@@ -1,0 +1,21 @@
+{
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-05-11 00:39:34 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-05-11 00:39:34 +0000"
+    },
+    "done": true
+  },
+  "majruszs_difficulty:progressive_difficulty/normal_mode": {
+    "criteria": {
+      "game_state": "2025-05-11 00:39:34 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}
